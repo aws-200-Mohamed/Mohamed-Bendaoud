@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1633265486064-086b219458ec?q=80&w=1800&auto=format&fit=crop" alt="Cloud Security Banner" />
+  <img src="https://www.pinterest.com/pin/28077197672224089/" alt="Cloud Security Banner" />
 </p>
 
 <h1 align="center">☁️🔐 Cloud Security Architect | Cyber Defense Specialist</h1>
